@@ -1,0 +1,19 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³ÃÀÛJ$9f4e88f9-2f0e-4383-8ff2-e3518ea005bb
+
+java:S2095n"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“J$a3867bf6-734d-4044-bd99-831544170994
+
+java:S2095Q"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“J$a2d640e4-230a-4e7d-97dc-cb1b09824330
+z
+java:S1874"9Remove this use of "writeStringToFile"; it is deprecated.(çıä¨üÿÿÿÿJ$e5316b44-17ba-4852-91fe-8851a04c156e
+f	java:S106<"+Replace this use of System.out by a logger.(¸„ÛöJ$fba4fcc7-a661-427b-b14e-7866600d765f
+k	java:S106@"+Replace this use of System.out by a logger.(µÏğìøÿÿÿÿJ$4dd885c8-722b-411c-8e41-01ec0e130c54
+
+java:S1659D"EDeclare "clientId" and all following declarations on a separate line.(ôÉˆñJ$eab13de6-7d24-46eb-a61e-40de50702410
+k
+java:S1874_"/Remove this use of "execute"; it is deprecated.(Ãß÷J$59a7b037-a9e7-497a-86f4-6a8524beac67
+k
+java:S1874v"/Remove this use of "execute"; it is deprecated.(úß’”J$6a431a4a-8a54-4824-8ab8-e2c09114b5d8
+{
+java:S1874”"9Remove this use of "writeStringToFile"; it is deprecated.(…ÍÂšøÿÿÿÿJ$367088f7-409a-4e6e-a983-d9055cb00dac
+l	java:S106•"+Replace this use of System.out by a logger.(²——¯ùÿÿÿÿJ$49e86abf-28dc-44ac-b430-82fd40b818d1

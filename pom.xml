@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>automation.framework</groupId>
+	<artifactId>selenium-restassured-bdd</artifactId>
+	<version>1.0-SNAPSHOT</version>
+
+	<properties>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<cucumber.version>7.23.0</cucumber.version>
+		<restassured.version>5.5.0</restassured.version>
+		<testng.version>7.9.0</testng.version>
+		<selenium.version>4.25.0</selenium.version>
+		<webdrivermanager.version>5.8.0</webdrivermanager.version>
+	</properties>
+
+	<dependencies>
+
+		<!-- CUCUMBER JAVA -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-java</artifactId>
+			<version>${cucumber.version}</version>
+		</dependency>
+
+		<!-- CUCUMBER TESTNG -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-testng</artifactId>
+			<version>${cucumber.version}</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!-- CUCUMBER CORE -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-core</artifactId>
+			<version>${cucumber.version}</version>
+		</dependency>
+
+		<!-- Datatable -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>datatable</artifactId>
+			<version>${cucumber.version}</version>
+		</dependency>
+
+		<!-- REST ASSURED -->
+		<dependency>
+			<groupId>io.rest-assured</groupId>
+			<artifactId>rest-assured</artifactId>
+			<version>${restassured.version}</version>
+		</dependency>
+
+		<!-- TESTNG -->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>${testng.version}</version>
+			<scope>test</scope>
+		</dependency>
+
+		<!-- Selenium Java -->
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>${selenium.version}</version>
+		</dependency>
+
+		<!-- WebDriverManager - Auto driver download -->
+		<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>${webdrivermanager.version}</version>
+		</dependency>
+
+		<!-- Extent Report For Parallel Execution -->
+		<dependency>
+			<groupId>tech.grasshopper</groupId>
+			<artifactId>extentreports-cucumber7-adapter</artifactId>
+			<version>1.13.0</version>
+		</dependency>
+
+
+	</dependencies>
+
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>3.1.2</version>
+				<configuration>
+					<suiteXmlFiles>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
+					</suiteXmlFiles>
+					<parallel>tests</parallel>
+					<threadCount>4</threadCount>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

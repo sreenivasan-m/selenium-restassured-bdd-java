@@ -1,0 +1,29 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æå™Íûÿÿÿÿ8†Ô£û±2J$3cc26124-e512-463a-8fdc-cb45fff6a964
+	java:S112Á"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‹Ô£û±2J$b0039922-703f-4777-8b36-438197a9af6e
+
+java:S1192¢"GDefine a constant instead of duplicating this literal "result" 3 times.(š¿Ëıÿÿÿÿ8‹Ô£û±2J$add233a2-df2a-4b63-8901-267fd1803882
+–
+java:S1192a"NDefine a constant instead of duplicating this literal "Authorization" 3 times.(—öÜ‹ùÿÿÿÿ8ºŸ§ç´2J$67056539-344e-4ef4-a0ce-5af20364e833
+”
+java:S2095t"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8ºŸ§ç´2J$c2d4fa94-92ee-4313-9b70-29e8e9a78de3
+•
+java:S2095“"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8ºŸ§ç´2J$716e5da6-7a63-40ff-8788-80522f17c453
+”
+java:S2095W"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8ŒÔ£û±2J$d080ac6f-8f04-449e-9789-7d8025f544c2
+
+java:S1874"9Remove this use of "writeStringToFile"; it is deprecated.(çıä¨üÿÿÿÿ8¡Ô£û±2J$1b4e4479-3e5b-44ad-8962-e07882b0e27f
+m	java:S106@"+Replace this use of System.out by a logger.(¸„Ûö8 Ô£û±2J$7b0c53df-7d6e-4144-948f-2324f82a1854
+ˆ
+java:S1659J"EDeclare "clientId" and all following declarations on a separate line.(ôÉˆñ8ÁŸ§ç´2J$5cb50184-effb-4b38-9259-38a7b6ecd8e1
+r
+java:S1874e"/Remove this use of "execute"; it is deprecated.(Ãß÷8ŸÔ£û±2J$838a95f1-323c-485e-8152-b59c695ccb10
+r
+java:S1874|"/Remove this use of "execute"; it is deprecated.(úß’”8ÇŸ§ç´2J$ceafc34b-0bf8-433e-a70a-8baf69adb923
+s
+java:S1874›"/Remove this use of "execute"; it is deprecated.(úß’”8ÊŸ§ç´2J$5a841b0e-b947-4a0e-9298-ee3694b88c3c
+s	java:S106°"+Replace this use of System.out by a logger.(ú¦Ÿ£ıÿÿÿÿ8 Ô£û±2J$aaf4a7d6-1fff-4bd9-adcc-6d02851a80d1
+s	java:S106³"+Replace this use of System.out by a logger.(å–õÈıÿÿÿÿ8¢Ô£û±2J$3b9e20c1-5778-4c57-81c8-ed39531b4d30
+‚
+java:S1874¿"9Remove this use of "writeStringToFile"; it is deprecated.(…ÍÂšøÿÿÿÿ8ÌŸ§ç´2J$88b3e9f4-5c84-4a2b-9829-18dc23d20c50
+s	java:S106Ä"+Replace this use of System.out by a logger.(÷±ìŸûÿÿÿÿ8ÌŸ§ç´2J$dfb57443-7214-4fe1-8c8c-e3dc8657a4cb

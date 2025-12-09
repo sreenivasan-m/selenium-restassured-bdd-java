@@ -1,0 +1,35 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÌõĞ8­ªƒô´2J$7c9b8ed4-6e90-45c1-8a74-d2771a5b8fa1
+}
+java:S1141D"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¯ªƒô´2J$db10339c-afec-4b37-80e1-c4452241a580
+‹
+java:S2259"BA "NullPointerException" could be thrown; "docs" is nullable here.(·å¯Àúÿÿÿÿ8®¤æö´2J$b1c9c2fb-76f4-4d81-b7ef-4c2bf5e8dbed
+	java:S112Ç"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¯¤æö´2J$c8994ef0-b84e-40c5-a860-50b7a4b39c40
+
+java:S1192¯"GDefine a constant instead of duplicating this literal "result" 3 times.(š¿Ëıÿÿÿÿ8¯¤æö´2J$e2dbc0bf-4026-4d0f-b08b-9a178cd766cb
+–
+java:S1192h"NDefine a constant instead of duplicating this literal "Authorization" 3 times.(—öÜ‹ùÿÿÿÿ8¯¤æö´2J$05361552-3d1e-49c8-b466-56bb07194c5b
+”
+java:S2095^"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8¯¤æö´2J$ee033eed-6ce4-4939-9e40-1b02fcc657be
+”
+java:S2095{"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8¯¤æö´2J$393af580-850e-40b7-aa9b-c2131f029965
+•
+java:S2095 "QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8¯¤æö´2J$5e32c3ac-fd9c-4912-9ffd-27f82d3ebe42
+
+java:S1874""9Remove this use of "writeStringToFile"; it is deprecated.(çıä¨üÿÿÿÿ8Æªƒô´2J$e71f62c5-4cb0-4c4a-aa8a-70354da13f64
+m	java:S106C"+Replace this use of System.out by a logger.(¸„Ûö8Æªƒô´2J$70cd1414-081c-433e-b2a1-05481fe26018
+m	java:S106H"+Replace this use of System.out by a logger.(ûø¡8Îªƒô´2J$36bc0f63-4e9e-434f-a06d-3303396365d3
+ˆ
+java:S1659Q"EDeclare "clientId" and all following declarations on a separate line.(ôÉˆñ8µ¤æö´2J$61c61041-ca00-462e-8648-11c5365231d4
+r
+java:S1874l"/Remove this use of "execute"; it is deprecated.(Ãß÷8¶¤æö´2J$9efa7732-4388-4556-ab73-11c4ceee1d4f
+s
+java:S1874ƒ"/Remove this use of "execute"; it is deprecated.(úß’”8¸¤æö´2J$82b0834c-2416-496c-93d9-733ba761b2ea
+n	java:S106‹"+Replace this use of System.out by a logger.(ıÏœ™8¸¤æö´2J$e50384cf-dfbb-4733-89a0-bb3e0c9cb996
+s
+java:S1874¨"/Remove this use of "execute"; it is deprecated.(úß’”8¹¤æö´2J$514e1515-65aa-460b-8c84-a9b7a7457e39
+s	java:S106¶"+Replace this use of System.out by a logger.(ğ±°­ÿÿÿÿÿ8º¤æö´2J$c2e50e3e-3748-4260-ad0e-315f5c74e6b8
+n	java:S106¹"+Replace this use of System.out by a logger.(ë´—Ö8º¤æö´2J$4ccb62d6-f3a8-49e9-b156-e5b16cc13874
+‚
+java:S1874Å"9Remove this use of "writeStringToFile"; it is deprecated.(…ÍÂšøÿÿÿÿ8º¤æö´2J$01dc4574-1f19-4583-95ad-855cfb15b5ab
+s	java:S106Ê"+Replace this use of System.out by a logger.(÷±ìŸûÿÿÿÿ8»¤æö´2J$2146bb52-38bb-4c8e-86ac-9475af205f98

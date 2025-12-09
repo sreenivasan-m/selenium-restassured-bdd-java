@@ -1,0 +1,21 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø˜½Şøÿÿÿÿ8§á³…§2J$20e0323e-33ab-43d6-a9c6-b3b896494da4
+ª
+java:S1488‹"aImmediately return this expression instead of assigning it to the temporary variable "dataTotal".(äÕÚ”ùÿÿÿÿ8­á³…§2J$37d2df90-77a3-4ab3-88d1-e5d3c33445fb
+”
+java:S2095n"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8³á³…§2J$72a36255-2bdc-47b7-8e40-effb98c2247a
+”
+java:S2095Q"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(™ıÄ“8³á³…§2J$169f1289-bd9a-4a3e-821b-3ee5e6f1662a
+
+java:S1874"9Remove this use of "writeStringToFile"; it is deprecated.(çıä¨üÿÿÿÿ8Îá³…§2J$8013e1d4-d2ae-404c-8819-36c79a43f39b
+m	java:S106<"+Replace this use of System.out by a logger.(¸„Ûö8Ñá³…§2J$fbd368a9-cb65-4bf3-9eba-e71c746939ca
+r	java:S106@"+Replace this use of System.out by a logger.(µÏğìøÿÿÿÿ8Òá³…§2J$1f77235e-d37f-4767-a172-d4dbf958f27c
+ˆ
+java:S1659D"EDeclare "clientId" and all following declarations on a separate line.(ôÉˆñ8Öá³…§2J$dcc43d8f-a91e-46d5-b62c-7fe3d97242b9
+r
+java:S1874_"/Remove this use of "execute"; it is deprecated.(Ãß÷8ßá³…§2J$e0413177-16ea-485a-bd9d-412d6c5aba3a
+r
+java:S1874v"/Remove this use of "execute"; it is deprecated.(úß’”8ëá³…§2J$04735d8b-d9a8-45d9-b886-728d7d12687d
+‚
+java:S1874…"9Remove this use of "writeStringToFile"; it is deprecated.(…ÍÂšøÿÿÿÿ8óá³…§2J$f37121f9-da2c-44c5-9204-ea9436c02284
+s	java:S106‡"+Replace this use of System.out by a logger.(²——¯ùÿÿÿÿ8ôá³…§2J$38f24841-d76f-473d-b1cf-c5f68b5889df
